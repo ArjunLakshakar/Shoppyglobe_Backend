@@ -6,5 +6,6 @@
 - MongoDB integration using Mongoose
 - Proper Error Handling and Validation
 
+All ThunderClient test screenshots are available in the `Screenshots` folder.
 
-GitHub Link : https://github.com/ArjunLakshakar/Shoppyglobe_Backend
+GitHub Repo : https://github.com/ArjunLakshakar/Shoppyglobe_Backend

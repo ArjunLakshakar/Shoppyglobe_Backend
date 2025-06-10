@@ -8,6 +8,7 @@ export const addToCart = async (req, res) => {
   const userId = req.user?.userId;
   const { productId, quantity } = req.body;
 
+  // check user and Product
   if (!userId) {
     return res.status(401).json({ message: "Unauthorized: User ID missing" });
   }

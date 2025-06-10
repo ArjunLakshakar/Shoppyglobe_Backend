@@ -1,3 +1,5 @@
+## Shoppyglobe_Backend 
+
 - User Registration and Login with JWT Authentication
 - Product Listing and Details
 - Cart Operations: Add, Update, Delete
@@ -5,4 +7,4 @@
 - Proper Error Handling and Validation
 
 
-GitHub Link : 
+GitHub Link : https://github.com/ArjunLakshakar/Shoppyglobe_Backend
